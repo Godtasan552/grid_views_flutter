@@ -10,16 +10,20 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final ImageList = <String> [
-      'assets/images/01.jpg',
-      'assets/images/02.png',
-      'assets/images/03.jpg',
-      'assets/images/04.jpg',
-      'assets/images/05.jpg',
-      'assets/images/06.jpg',
-      'assets/images/07.png',
-      'assets/images/08.jpg',
-      'assets/images/09.jpg',
-      'assets/images/10.jpg',
+      'assets/images/Human.jpg',
+      'assets/images/27.jpg',
+      'assets/images/16.jpg',
+      'assets/images/14.jpg',
+      'assets/images/15.jpg',
+      'assets/images/13.jpg',
+      'assets/images/11.jpg',
+      'assets/images/12.jpg',
+      'assets/images/22.jpg',
+      'assets/images/21.jpg',
+      'assets/images/24.jpg',
+      'assets/images/25.jpg',
+      'assets/images/26.jpg',
+      'assets/images/14.jpg',
     ];
 
     return MaterialApp(
